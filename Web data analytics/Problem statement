@@ -1,1 +1,18 @@
+Dataset Description:
 
+The dataset from www.datadb.com contains the following variables for web analytics:
+Bounces: Represents the percentage of visitors who leave the site without viewing other pages.
+Continent: Indicates the continent from which the site is accessed.
+Source Group: Shows how visitors have accessed the site.
+Time on Page: Displays the duration users spend on specific pages.
+Unique Pageview: Represents the number of sessions during which a page was viewed one or more times.
+Visits: Counts all visitors, regardless of how many times the same visitor accesses the site.
+
+Problem Statement:
+
+The web analytics team aims to address the following issues:
+Data Summarization: Analyze each variable in the dataset to gain a fundamental understanding and prepare for further analysis.
+Unique Page Views vs. Visits: Investigate whether the unique page view value is dependent on the number of visits.
+Exit Page Analysis: Identify probable factors from the dataset that could impact exits, distinct from bounces. Exit Page Analysis helps understand why users leave a website during a session.
+Time on Page Factors: Determine variables in the dataset that potentially influence the time users spend on a page. Increasing this time enhances visitor engagement and the likelihood of transactions.
+Bounce Rate Impact: Identify factors affecting the bounce rate, as a high bounce rate is concerning for websites reliant on visitor engagement.
